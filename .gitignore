@@ -1,0 +1,14 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Настройки PyCharm
+.idea/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+
+# Системные файлы (macOS)
+.DS_Store
