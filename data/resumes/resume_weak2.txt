@@ -1,0 +1,4 @@
+Алексей Смирнов.
+Junior Data Analyst.
+Знаю Python, SQL, Excel, Pandas, NumPy, Scikit-learn, Tableau, Power BI, A/B testing, статистика, машинное обучение.
+Готов учиться и развиваться. Опыта работы пока нет.
